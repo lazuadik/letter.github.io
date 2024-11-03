@@ -129,7 +129,7 @@ main {
 /* Individual cards */
 .card {
     background-color: #fff; /* Warna latar belakang card */
-    border-radius: 10px; /* Sudut melengkung card */
+    border-radius: 12px; /* Sudut melengkung card */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bayangan card */
     padding: 20px; /* Padding di dalam card */
     text-align: center; /* Menengahkan teks di dalam card */
