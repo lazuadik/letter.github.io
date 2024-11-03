@@ -69,7 +69,7 @@ body{
 
 
 main {
-    background-image: url(../../Asset/background.png);
+    background-image: URL(background.png);
     padding-top: 100px;
 }
 
